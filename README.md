@@ -23,6 +23,16 @@ I specialize in:
 
 I enjoy solving complex problems, working on real-world AI systems, and building products that scale.
 
+- 👨‍💻 All of my projects are available at [https://github.com/SahanaByrapu?tab=repositories](https://github.com/SahanaByrapu?tab=repositories)
+
+- 📝 I regularly write articles on [https://medium.com/@sahanabhargavib](https://medium.com/@sahanabhargavib)
+
+- 📫 How to reach me **sahanabhargavib@gmail.com**
+
+- 📄 Know about my experiences [SaiSahanaBhargavi__Full_Stack_Engineer.pdf](SaiSahanaBhargavi__Full_Stack_Engineer.pdf)
+
+✨ *Always learning. Always building.*
+
 ---
 
 #### 📈 GitHub Stats
@@ -107,7 +117,6 @@ I enjoy solving complex problems, working on real-world AI systems, and building
 | API Tools | Postman | <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="35" height="35"/></a> |
 
 ## 🤝 Let’s Connect
-📫 **sahanabhargavib@gmail.com**
 <p align="left">
 <a href="https://linkedin.com/in/sai sahana bhargavi byrapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai sahana bhargavi byrapu" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/sahana_bhargavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sahana_bhargavi" height="30" width="40" /></a>
@@ -122,4 +131,4 @@ I enjoy solving complex problems, working on real-world AI systems, and building
 </p>
 
 
-✨ *Always learning. Always building.*
+
