@@ -23,13 +23,13 @@ I specialize in:
 
 I enjoy solving complex problems, working on real-world AI systems, and building products that scale.
 
-< !-- 👨‍💻 All of my projects are available at [https://github.com/SahanaByrapu?tab=repositories](https://github.com/SahanaByrapu?tab=repositories)
+<!-- <p> 👨‍💻 All of my projects are available at [https://github.com/SahanaByrapu?tab=repositories](https://github.com/SahanaByrapu?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/@sahanabhargavib](https://medium.com/@sahanabhargavib)
 
 - 📫 How to reach me **sahanabhargavib@gmail.com**
 
-- 📄 Know about my experiences [SaiSahanaBhargavi__Full_Stack_Engineer.pdf](SaiSahanaBhargavi__Full_Stack_Engineer.pdf) -->
+- 📄 Know about my experiences [SaiSahanaBhargavi__Full_Stack_Engineer.pdf](SaiSahanaBhargavi__Full_Stack_Engineer.pdf)  </p> -->
 
 ✨ *Always learning. Always building.*
 
