@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahanabyrapu&label=Profile%20views&color=0e75b6&style=flat" alt="sahanabyrapu" /> </p>
 
 🚀 **Software Engineer | Applied AI Enthusiast**  
-💻 Java | Spring Boot | React | AWS | Microservices | ML | MLOps  
+💻 Java | Python | SQL | Microservices | AWS  
 📍 United States  
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahanabyrapu&show_icons=true&locale=en&layout=compact" alt="sahanabyrapu" /></p>
@@ -40,6 +40,7 @@ I enjoy solving complex problems, working on real-world AI systems, and building
 
 
 ## 🛠️ Tech Stack
+<!--
 ### 🧩 Backend & APIs
 
 | Category | Technologies | Icons |
@@ -70,7 +71,7 @@ I enjoy solving complex problems, working on real-world AI systems, and building
 | Orchestration | Helm | 🧩 |
 | CI/CD | Jenkins, GitHub Actions, Maven | <a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="35" height="35"/></a> |
 | Scripting | Bash | <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="35" height="35"/></a> |
-
+-->
 ### 🤖 AI / ML
 
 | Category | Technologies | Icons |
