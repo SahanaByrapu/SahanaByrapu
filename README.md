@@ -40,7 +40,7 @@ I enjoy solving complex problems, working on real-world AI systems, and building
 
 
 ## 🛠️ Tech Stack
-<!--
+
 ### 🧩 Backend & APIs
 
 | Category | Technologies | Icons |
@@ -71,7 +71,7 @@ I enjoy solving complex problems, working on real-world AI systems, and building
 | Orchestration | Helm | 🧩 |
 | CI/CD | Jenkins, GitHub Actions, Maven | <a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="35" height="35"/></a> |
 | Scripting | Bash | <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="35" height="35"/></a> |
--->
+
 ### 🤖 AI / ML
 
 | Category | Technologies | Icons |
