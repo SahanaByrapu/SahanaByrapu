@@ -49,8 +49,8 @@ I enjoy solving complex problems, working on real-world AI systems, and building
 
 | Category | Technologies | Icons |
 |--------|-------------|-------|
-| Language | Java (8–21) | <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35" height="35"/></a> |
-| Frameworks | Spring Boot, Spring MVC, Spring Security | <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="35" height="35"/></a> |
+| Language | Java (8–21),Python  | <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35" height="35"/></a> <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35" height="35"/></a> |
+| Frameworks | Spring Boot, Django, Flask | <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="35" height="35"/></a> <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="35" height="35"/></a> <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="35" height="35"/></a>|
 | APIs | REST, GraphQL | <a href="https://graphql.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="35" height="35"/></a> |
 | Messaging | Kafka, RabbitMQ | <a href="https://kafka.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="35" height="35"/></a> <a href="https://www.rabbitmq.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="35" height="35"/></a> |
 | Other | PHP | <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="35" height="35"/></a> |
@@ -90,15 +90,14 @@ I enjoy solving complex problems, working on real-world AI systems, and building
 
 | Category | Technologies | Icons |
 |--------|-------------|-------|
-| Languages | Python | <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35" height="35"/></a> |
 | ML / DL Frameworks | TensorFlow, PyTorch, Scikit-learn | <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="35" height="35"/></a> <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="35" height="35"/></a> <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="35" height="35"/></a> |
 | Data Processing | Pandas | <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="35" height="35"/></a> |
+| GenAI | LLMs, Agentic Frameworks | 🤖 |
 | Visualization | Seaborn | <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="35" height="35"/></a> |
-| Model Serving | Django, Flask | <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="35" height="35"/></a> <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="35" height="35"/></a> |
 | Computer Vision | OpenCV | <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="35" height="35"/></a> |
 | MLOps | Model Deployment, Pipelines | ⚙️ |
 | Accelerated Computing | GPU Programming, CUDA | 🚀 |
-| GenAI | LLMs, Agentic Frameworks | 🤖 |
+
 
 
  
