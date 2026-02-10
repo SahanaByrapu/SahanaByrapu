@@ -66,6 +66,16 @@ I enjoy solving complex problems, working on real-world AI systems, and building
 | Markup | HTML5 | <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="35" height="35"/></a> |
 | Design | Figma | <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="35" height="35"/></a> |tps://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 
+### 🗄️ Databases
+
+| Category | Technologies | Icons |
+|--------|-------------|-------|
+| Relational (SQL) | PostgreSQL, MySQL, Oracle | <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="35" height="35"/></a> <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="35" height="35"/></a> <a href="https://www.oracle.com/database/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="35" height="35"/></a> |
+| NoSQL | MongoDB, Cassandra | <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="35" height="35"/></a> <a href="https://cassandra.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" width="35" height="35"/></a> |
+| Cloud Databases | Cosmos DB | ☁️ |
+| In-Memory | Redis | <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="35" height="35"/></a> |
+
+
 ### ☁️ Cloud & DevOps
 
 | Category | Technologies | Icons |
@@ -90,14 +100,6 @@ I enjoy solving complex problems, working on real-world AI systems, and building
 | Accelerated Computing | GPU Programming, CUDA | 🚀 |
 | GenAI | LLMs, Agentic Frameworks | 🤖 |
 
-### 🗄️ Databases
-
-| Category | Technologies | Icons |
-|--------|-------------|-------|
-| Relational (SQL) | PostgreSQL, MySQL, Oracle | <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="35" height="35"/></a> <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="35" height="35"/></a> <a href="https://www.oracle.com/database/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="35" height="35"/></a> |
-| NoSQL | MongoDB, Cassandra | <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="35" height="35"/></a> <a href="https://cassandra.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" width="35" height="35"/></a> |
-| Cloud Databases | Cosmos DB | ☁️ |
-| In-Memory | Redis | <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="35" height="35"/></a> |
 
  
 ### 🧪 Testing
