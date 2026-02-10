@@ -17,7 +17,7 @@
 ---
 
 ## 👩‍💻 About Me
-I’m a **Senior Full Stack Engineer with 7+ years of experience** building scalable, cloud-native applications across healthcare, AI-driven platforms, and enterprise systems.
+I’m a **Full Stack Engineer** with 6+ years of experience** building scalable, cloud-native applications across healthcare, AI-driven platforms, and enterprise systems.
 
 I specialize in:
 - Designing **high-performance backend systems**
