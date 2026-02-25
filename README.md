@@ -33,7 +33,7 @@ I enjoy solving complex problems, working on real-world AI systems, and building
 
 - 📫 How to reach me **sahanabhargavib@gmail.com**
 
-- 📄 Know about my experiences [SaiSahanaBhargaviByrapu_ML Engineer_ SVL Resume.pdf](SaiSahanaBhargavi__Full_Stack_Engineer.pdf) 
+<!-- - 📄 Know about my experiences [SaiSahanaBhargaviByrapu_ML Engineer_ SVL Resume.pdf](SaiSahanaBhargavi__Full_Stack_Engineer.pdf) -->
 
 ✨ *Always learning. Always building.*
 
