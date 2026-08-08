@@ -19,7 +19,7 @@
 ## 👩‍💻 About Me
 I’m a **Software Engineer** with 6+ years of experience int building scalable, cloud-native applications across healthcare, AI-driven platforms, and enterprise systems.
 
-I specialize in:
+Technologies I work with:
 - Designing **high-performance backend systems**
 - Building **secure, scalable microservices**
 - Developing **modern frontend applications**
